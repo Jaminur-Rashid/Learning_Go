@@ -1,2 +1,2 @@
 # Learning_Go
-A repository for laerning go 
+A repository for learning go 
