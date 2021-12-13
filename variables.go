@@ -1,10 +1,12 @@
 /*
-    Author : Jaminur Rasid 
+    Author : Jaminur Rasid
 	Date   : 13-12-2021
 */
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	/*
